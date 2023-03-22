@@ -10,6 +10,7 @@ services:
       - FRONT_HOST=todofront
     networks:
       - rede-virtual
+
   todofront:
     image: todofrontend
     ports:
@@ -20,11 +21,13 @@ services:
       - REACT_APP_API_HOST=todoback
     networks:
       - rede-virtual
+
   todoback:
     image: todobackend
     ports:
       - 3001:3001
     networks:
       - rede-virtual
+      
 networks:
   rede-virtual:
