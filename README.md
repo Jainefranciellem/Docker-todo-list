@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h1>Olá, <br/>
+Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação Trybe!</h1>
+
+
+<h1 align='center' id='Título-e-Imagem-de-capa'>Docker Todo List</h1>
+
+<p align='center'>
+<img src='./capa-docker.jpg' width="230" heigth="259"/>
+</p>
+
+<p>Este projeto visa utilizar conhecimento dos comandos dockers no CLI - Interface de linha de comando juntamente com
+a criação de contêiner Docker para uma aplicação de front-end, back-end e testes e orquestrar os três contêineres utilizando o Docker compose.</p>
+
+<h1>Arquivos desenvolvidos.</h1>
+
+<p>Software Docker</p>
+
+<p>Esse, assim como todos os projetos que desenvolvi durante o curso e desenvolvi por conta própria estarão disponíveis no meu <a href="https://franciellem.vercel.app/" target="_blanck">Projeto</a>, na aba de projetos, seja bem-vindo para explorar e caso se interessar pode entrar com contato comigo!</p>
