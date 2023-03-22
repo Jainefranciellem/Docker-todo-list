@@ -5,8 +5,10 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
 <h1 align='center' id='Título-e-Imagem-de-capa'>Docker Todo List</h1>
 
 <p align='center'>
-<img src='./capa-docker.jpg' width="230" heigth="259"/>
+<img src='./homepage-docker-logo.png' width="300" heigth="250"/>
 </p>
+
+<h1>Sobre o projeto</h1>
 
 <p>Este projeto visa utilizar conhecimento dos comandos dockers no CLI - Interface de linha de comando juntamente com
 a criação de contêiner Docker para uma aplicação de front-end, back-end e testes e orquestrar os três contêineres utilizando o Docker compose.</p>
